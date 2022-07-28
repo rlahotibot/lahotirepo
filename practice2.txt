@@ -1,4 +1,4 @@
 Line1
 Line2 by lahotirepo from Desktop
 Line2 by lahotirepo from Git UI
-Line3 by lahotirepo from Git UI
+Line3 modified by rlahotibot from Git UI
